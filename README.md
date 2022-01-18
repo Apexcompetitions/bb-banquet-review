@@ -1,1 +1,1 @@
-# bb-banquet-purchase-confirmation-email
+# bb-banquet-review-email
